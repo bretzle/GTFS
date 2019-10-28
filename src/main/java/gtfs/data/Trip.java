@@ -1,5 +1,9 @@
 package gtfs.data;
 
+import gtfs.data.enums.Bikes;
+import gtfs.data.enums.Direction;
+import gtfs.data.enums.WheelChair;
+
 public class Trip {
 
 	// required

@@ -1,4 +1,4 @@
-package gtfs.data;
+package gtfs.data.enums;
 
 public enum LocationType {
 	STOP(0),

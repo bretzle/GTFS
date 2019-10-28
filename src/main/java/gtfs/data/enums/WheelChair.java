@@ -1,4 +1,4 @@
-package gtfs.data;
+package gtfs.data.enums;
 
 public enum WheelChair {
 	NO_INFO(0),

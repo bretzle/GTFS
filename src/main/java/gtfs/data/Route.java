@@ -1,5 +1,6 @@
 package gtfs.data;
 
+import gtfs.data.enums.RouteType;
 import java.net.MalformedURLException;
 import java.net.URL;
 import javafx.scene.paint.Color;

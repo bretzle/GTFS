@@ -1,5 +1,7 @@
 package gtfs.data;
 
+import gtfs.data.enums.LocationType;
+import gtfs.data.enums.WheelChair;
 import java.net.URL;
 import java.util.TimeZone;
 
